@@ -59,3 +59,7 @@ Check out the `example/` folder for a fully working demonstration of the package
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 Copyright (c) 2026 BalochCodes.
+
+## Author
+
+Developed By **Shahzain Baloch**
