@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Updated installation instructions in README.md to reference the correct version.
+
 ## 0.0.3
 
 * Fixed pub.dev scoring by adding missing CHANGELOG entries.

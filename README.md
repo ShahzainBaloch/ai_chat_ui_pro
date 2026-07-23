@@ -16,7 +16,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  ai_chat_ui_pro: ^0.0.1
+  ai_chat_ui_pro: ^0.0.3
 ```
 
 Then run:
