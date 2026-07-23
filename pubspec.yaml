@@ -2,7 +2,7 @@ name: ai_chat_ui_pro
 description: A next-generation, highly customizable Flutter package designed specifically for building AI chat interfaces.
 version: 0.0.1
 homepage: https://balochcodes.com
-repository: https://github.com/BalochCodes/ai_chat_ui_pro
+repository: https://github.com/ShahzainBaloch/ai_chat_ui_pro
 
 environment:
   sdk: ^3.11.0
